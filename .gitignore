@@ -1,0 +1,5 @@
+vx_notebook/notebook.db
+**/vx_recycle_bin
+**/*.vswp
+**/a.out
+**/gitignore
