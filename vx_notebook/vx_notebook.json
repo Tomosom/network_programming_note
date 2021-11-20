@@ -1,0 +1,15 @@
+{
+    "attachment_folder": "vx_attachments",
+    "config_mgr": "vx.vnotex",
+    "created_time": "2021-11-20T07:50:00Z",
+    "description": "",
+    "extra_configs": {
+    },
+    "history": [
+    ],
+    "image_folder": "vx_images",
+    "name": "network_programming_note",
+    "tag_graph": "",
+    "version": 2,
+    "version_controller": "dummy.vnotex"
+}
