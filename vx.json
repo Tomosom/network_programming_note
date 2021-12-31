@@ -53,12 +53,9 @@
         }
     ],
     "folders": [
-        {
-            "name": "vx_recycle_bin"
-        }
     ],
     "id": "1",
     "modified_time": "2021-11-20T07:50:00Z",
     "signature": "177731053736",
-    "version": 2
+    "version": 3
 }
